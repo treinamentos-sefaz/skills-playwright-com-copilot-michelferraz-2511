@@ -19,3 +19,5 @@ Remember, it's self-paced so feel free to take a break! ☕️
 - `.github/`: instruções do exercício, workflows de validação e skill opcional.
 
 Para iniciar a página localmente, execute `npm start` e acesse `http://localhost:3000`.
+
+Exercicio em andamento
